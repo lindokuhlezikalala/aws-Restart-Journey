@@ -1,8 +1,6 @@
 # 🌐 Static Website Hosting with Amazon S3
 
-This project demonstrates how to host a static website on **Amazon S3** using simple HTML, CSS, and JavaScript. It's part of my AWS Restart Journey.
-
-## 🚀 Steps to Launch Your Website
+This project demonstrates how to host a static website on **Amazon S3** using simple HTML, CSS. It's part of my AWS Restart Journey.
 
 ### 1. Create an S3 Bucket
 - Use a globally unique bucket name (e.g., zoefitness123).
